@@ -1,0 +1,3 @@
+[submodule "bllitehtml/thirdparty/litehtml"]
+	path = bllitehtml/thirdparty/litehtml
+	url = https://github.com/litehtml/litehtml
